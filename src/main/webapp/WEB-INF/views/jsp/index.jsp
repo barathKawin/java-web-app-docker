@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h2>Am Barath. My CTC is 2500000 per annum</h2>
+			<h3>I git canada Visa and am moving there shortly</h3>
 		</div>	
 	</div>
 
